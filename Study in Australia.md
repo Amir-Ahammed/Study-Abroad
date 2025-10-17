@@ -33,7 +33,7 @@ Even with a CGPA of **2.69**, you can apply to several affordable and flexible u
 | **University of Southern Queensland (UniSQ)** | 24,000–30,000 | Regional university; low cost of living; practical IT programs | Pathway/foundation available if GPA slightly low |
 | **University of the Sunshine Coast (USC)** | 23,000–26,000 | Friendly to international students; beautiful, affordable region | May need IELTS 6.5 overall |
 | **Charles Darwin University (CDU)** | 24,000–31,000 | Regional location; research-oriented; flexible GPA acceptance | Offers IT, Data Science, and Cybersecurity courses |
-| **Southern Cross University (SCU)** | 25,000–32,000 | Affordable tuition; small class sizes; strong student support | Offers Bachelor of IT and Master of IT Management |
+| [**Southern Cross University (SCU)**](https://www.scu.edu.au/study/courses/master-of-information-technology-1209160/2026/) | 25,000–32,000 | Affordable tuition; small class sizes; strong student support | Offers Bachelor of IT and Master of IT Management |
 | **Edith Cowan University (ECU)** | 25,000–28,000 | Known for Cybersecurity, Software Engineering, and Data Science | Slightly higher ranked yet flexible with GPA |
 
 💡 **Tip:** Strengthen your application by adding:
