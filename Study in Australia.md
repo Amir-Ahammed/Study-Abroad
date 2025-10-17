@@ -30,7 +30,7 @@ Even with a CGPA of **2.69**, you can apply to several affordable and flexible u
 | University | Approx. Tuition Fees (AUD/year) | Highlights | Notes |
 |-------------|-------------------------------|-------------|--------|
 | [**Federation University Australia (FedUni)**](https://www.federation.edu.au/courses/dcg9.se-master-of-technology-software-engineering) | 21,000–25,000 | One of the most affordable universities; regional location; flexible admission for CGPA below 3.0 | Good option for Bachelor’s or Master’s in IT |
-| **University of Southern Queensland (UniSQ)** | 24,000–30,000 | Regional university; low cost of living; practical IT programs | Pathway/foundation available if GPA slightly low |
+| [**University of Southern Queensland (UniSQ)**](https://www.unisq.edu.au/study/degrees-and-courses/find-a-degree?studyLevels=PGRD) | 24,000–30,000 | Regional university; low cost of living; practical IT programs | Pathway/foundation available if GPA slightly low |
 | **University of the Sunshine Coast (USC)** | 23,000–26,000 | Friendly to international students; beautiful, affordable region | May need IELTS 6.5 overall |
 | **Charles Darwin University (CDU)** | 24,000–31,000 | Regional location; research-oriented; flexible GPA acceptance | Offers IT, Data Science, and Cybersecurity courses |
 | [**Southern Cross University (SCU)**](https://www.scu.edu.au/study/courses/master-of-information-technology-1209160/2026/) | 25,000–32,000 | Affordable tuition; small class sizes; strong student support | Offers Bachelor of IT and Master of IT Management |
