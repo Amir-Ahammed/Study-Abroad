@@ -34,7 +34,7 @@ Even with a CGPA of **2.69**, you can apply to several affordable and flexible u
 | [**University of the Sunshine Coast (USC)**](https://www.usc.edu.au/study/courses-and-programs/postgraduate-degrees/master-of-information-and-communications-technology) | 23,000–26,000 | Friendly to international students; beautiful, affordable region | May need IELTS 6.5 overall |
 | [**Charles Darwin University (CDU)**](https://www.cdu.edu.au/study/postgraduate/it-network-engineering) | 24,000–31,000 | Regional location; research-oriented; flexible GPA acceptance | Offers IT, Data Science, and Cybersecurity courses |
 | [**Southern Cross University (SCU)**](https://www.scu.edu.au/study/courses/master-of-information-technology-1209160/2026/) | 25,000–32,000 | Affordable tuition; small class sizes; strong student support | Offers Bachelor of IT and Master of IT Management |
-| **Edith Cowan University (ECU)** | 25,000–28,000 | Known for Cybersecurity, Software Engineering, and Data Science | Slightly higher ranked yet flexible with GPA |
+| [**Edith Cowan University (ECU)**](https://www.ecu.edu.au/degrees/courses/master-of-cyber-security) | 25,000–28,000 | Known for Cybersecurity, Software Engineering, and Data Science | Slightly higher ranked yet flexible with GPA |
 
 💡 **Tip:** Strengthen your application by adding:
 - High **IELTS/PTE** score (6.5+ preferred)  
