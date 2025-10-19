@@ -28,7 +28,7 @@ Even with a CGPA of **2.69**, you can apply to several Canadian colleges that of
 
 | College | Tuition Fees (CAD/year) | Highlights | Website |
 |--------|--------------------------|------------|---------|
-| **Northern College** | 9,000–11,000 | Very affordable; accepts study gaps | [northerncollege.ca](https://www.northerncollege.ca/) |
+| [**Northern College**](https://www.northerncollege.ca/program/cybersecurity/) | 9,000–11,000 | Very affordable; accepts study gaps |
 | **Lambton College** | 13,000–15,000 | Offers Cloud & Cybersecurity PGDs | [lambtoncollege.ca](https://www.lambtoncollege.ca/) |
 | **Centennial College** | 14,000–16,000 | Strong IT programs; Toronto-based | [centennialcollege.ca](https://www.centennialcollege.ca/) |
 | **Conestoga College** | 13,000–15,000 | Business Analysis & Web Dev PGDs | [conestogac.on.ca](https://www.conestogac.on.ca/) |
